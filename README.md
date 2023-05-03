@@ -121,5 +121,6 @@
 *It's okay to be a quitter and dosen't matter if I ask for help.*
 
 25. ***Don’t Ask Questions… Ask For Help***
-*I should think for the solution at the first. Then I should search about it. If I can't solve it then I can ask for a help. *
+
+*I should think for the solution at the first. Then I should search about it. If I can't solve it then I can ask for a help.*
 
