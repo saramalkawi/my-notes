@@ -3,6 +3,7 @@
 ## About me 
 
 *I am **Sara Aleassa**, I stadied **Elelctronic Engineering** at YU and I learned a **front-end** languages in Orange lab. Now, I am training at LTUC to be a **UI/UX** designer.*
+*I'm interested in psychology, healthcare, and in human energy.*
 
 ## What l learned 
 *How can I build my mindset to aviod being a victim developer and to make better disicion with programing.<br>
@@ -90,7 +91,7 @@
 
 *I should test all part of code before I commit it to source.*
 
-***(19. (Under)Estimation***
+***19. (Under)Estimation***
 
 *I should break the big thing into smaller things befor the estimation. Also, I should add some days to the deadline to avoid missing it.*
 
